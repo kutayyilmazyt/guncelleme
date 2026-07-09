@@ -1,0 +1,614 @@
+{
+  "216 Eagle Palace": {
+    "status": "active",
+    "display_name": "216 Eagle Palace",
+    "gold": true,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": true,
+        "hotel_id": "sxkb8qc5e52c",
+        "referer": "https://www.etstur.com/216-Eagle-Palace"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-eagle-palace"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Eagle Palace",
+        "result_text": "Eagle Palace Kartal, İstanbul"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-eagle-palace"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-eagle-palace-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 eagle",
+        "result_text": "216 Eagle Palace"
+      }
+    }
+  },
+  "216 HILL": {
+    "status": "active",
+    "display_name": "216 HILL",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-hill"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-hill"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 HILL",
+        "result_text": "216 HILL"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-hill"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-hill-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 HILL",
+        "result_text": "216 HILL"
+      }
+    }
+  },
+  "216 Palace": {
+    "status": "active",
+    "display_name": "216 Palace",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-palace"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-palace"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Palace",
+        "result_text": "216 Palace"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-palace"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-palace-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Palace",
+        "result_text": "216 Palace"
+      }
+    }
+  },
+  "216 Pasha Palace": {
+    "status": "active",
+    "display_name": "216 Pasha Palace",
+    "gold": true,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-pasha-palace"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-pasha-palace"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Pasha Palace",
+        "result_text": "216 Pasha Palace"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-pasha-palace"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-pasha-palace-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Pasha Palace",
+        "result_text": "216 Pasha Palace"
+      }
+    }
+  },
+  "216 Bosphorus": {
+    "status": "active",
+    "display_name": "216 Bosphorus",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-bosphorus"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-bosphorus"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Bosphorus",
+        "result_text": "216 Bosphorus"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-bosphorus"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-bosphorus-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Bosphorus",
+        "result_text": "216 Bosphorus"
+      }
+    }
+  },
+  "216 Comfort Inn": {
+    "status": "active",
+    "display_name": "216 Comfort Inn",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-comfort-inn"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-comfort-inn"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Comfort Inn",
+        "result_text": "216 Comfort Inn"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-comfort-inn"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-comfort-inn-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Comfort Inn",
+        "result_text": "216 Comfort Inn"
+      }
+    }
+  },
+  "216 MaCity": {
+    "status": "active",
+    "display_name": "216 MaCity",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-macity"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-macity"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 MaCity",
+        "result_text": "216 MaCity"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-macity"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-macity-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 MaCity",
+        "result_text": "216 MaCity"
+      }
+    }
+  },
+  "216 F&B": {
+    "status": "active",
+    "display_name": "216 F&B",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-fandb"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-fandb"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 F&B",
+        "result_text": "216 F&B"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-fandb"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-fandb-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 F&B",
+        "result_text": "216 F&B"
+      }
+    }
+  },
+  "216 Ruby": {
+    "status": "active",
+    "display_name": "216 Ruby",
+    "gold": true,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-ruby"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-ruby"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Ruby",
+        "result_text": "216 Ruby"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-ruby"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-ruby-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Ruby",
+        "result_text": "216 Ruby"
+      }
+    }
+  },
+  "216 Station": {
+    "status": "active",
+    "display_name": "216 Station",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-station"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-station"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Station",
+        "result_text": "216 Station"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-station"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-station-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Station",
+        "result_text": "216 Station"
+      }
+    }
+  },
+  "216 Style": {
+    "status": "active",
+    "display_name": "216 Style",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-style"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-style"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Style",
+        "result_text": "216 Style"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-style"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-style-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Style",
+        "result_text": "216 Style"
+      }
+    }
+  },
+  "216 North": {
+    "status": "active",
+    "display_name": "216 North",
+    "gold": true,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-north"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-north"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 North",
+        "result_text": "216 North"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-north"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-north-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 North",
+        "result_text": "216 North"
+      }
+    }
+  },
+  "216 Star": {
+    "status": "active",
+    "display_name": "216 Star",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-star"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-star"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Star",
+        "result_text": "216 Star"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-star"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-star-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Star",
+        "result_text": "216 Star"
+      }
+    }
+  },
+  "216 Prestige": {
+    "status": "active",
+    "display_name": "216 Prestige",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-prestige"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-prestige"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Prestige",
+        "result_text": "216 Prestige"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-prestige"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-prestige-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Prestige",
+        "result_text": "216 Prestige"
+      }
+    }
+  },
+  "216 Silver": {
+    "status": "active",
+    "display_name": "216 Silver",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-silver"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-silver"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Silver",
+        "result_text": "216 Silver"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-silver"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-silver-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Silver",
+        "result_text": "216 Silver"
+      }
+    }
+  },
+  "216 Castle": {
+    "status": "active",
+    "display_name": "216 Castle",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/216-castle"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/216-castle"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "216 Castle",
+        "result_text": "216 Castle"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "216-castle"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/216-castle-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "216 Castle",
+        "result_text": "216 Castle"
+      }
+    }
+  },
+  "Park Dedeman Kartal": {
+    "status": "active",
+    "display_name": "Park Dedeman Kartal",
+    "gold": false,
+    "city": "İstanbul",
+    "note": "Aktif otel. Canlı OTA denetimi çalışır.",
+    "ota": {
+      "ets": {
+        "active": false,
+        "hotel_id": "",
+        "referer": "https://www.etstur.com/park-dedeman-kartal"
+      },
+      "tatilbudur": {
+        "active": true,
+        "url": "https://www.tatilbudur.com/park-dedeman-kartal"
+      },
+      "enuygun": {
+        "active": true,
+        "search_name": "Park Dedeman Kartal",
+        "result_text": "Park Dedeman Kartal"
+      },
+      "tatilsepeti": {
+        "active": true,
+        "slug": "park-dedeman-kartal"
+      },
+      "otelfiyat": {
+        "active": true,
+        "path": "/tr/otel/park-dedeman-kartal-istanbul"
+      },
+      "jolly": {
+        "active": true,
+        "search_name": "Park Dedeman Kartal",
+        "result_text": "Park Dedeman Kartal"
+      }
+    }
+  }
+}
